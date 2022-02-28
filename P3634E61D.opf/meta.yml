@@ -1,0 +1,25 @@
+id: P3634E61D
+initial_creation_type: input
+source_metadata:
+  title: Consecration Series
+  language: fr
+  description: 'Lotsawa House presents the following texts related to the practice
+    of consecration (rab gnas):'
+  volume:
+    ef38b05c433f472cb02b874869af1cf7:
+      title: A Brief Ritual for Consecrating Representations of Enlightened Body,
+        Speech and Mind
+      parent: Rituals
+    f501996b250c454f89e71d6e9e8f3a58:
+      title: Concise Consecration
+      parent: Rituals
+    5312a8e6706f4819bce151afd6aefc77:
+      title: 'The Rain of Virtue and Goodness: A Short Practice for Consecrating Representations
+        of Enlightened Body, Speech and Mind'
+      parent: Rituals
+    d8aea9a7aaef4ee99af606d95699ff4b:
+      title: 'Instilling Confidence and Trust: An Inventory of the Sacred Contents
+        of the Jarung Khashor Stūpa'
+      parent: Inventories
+created_at: '2022-03-01T03:19:10.170034'
+last_modified_at: '2022-03-01T03:19:10.170037'
